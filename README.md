@@ -2,4 +2,4 @@
 ![Netflix Logo](https://github.com/Monica008/NETFLIX-SQL/blob/main/BrandAssets_Logos_01-Wordmark.jpg)
 
 Tools Used: Excel, Oracle SQL
-![Dataset Used]()
+![Dataset Used](https://github.com/Monica008/NETFLIX-SQL/blob/main/netflix_titles.csv)
